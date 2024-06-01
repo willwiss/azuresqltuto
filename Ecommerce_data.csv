@@ -1,0 +1,1001 @@
+clientid,first_name,last_name,mobile_brand,mobile_device,quantity_ordered,color,unit_price,order_number
+1,Durand,Lowater,Sharp,Sharp Aquos D10,1,Puce,789,77
+2,Alex,Alexandersen,Plum,Plum Ram 4,3,Fuscia,999,36
+3,Ezechiel,St. Louis,Philips,Philips S309,9,Teal,414,65
+4,Evey,Foley,Huawei,Huawei MediaPad M5 lite,1,Crimson,815,57
+5,Catriona,Stranger,LG,LG K92 5G,7,Pink,694,45
+6,Benny,Lumsdon,Oppo,Oppo RX17 Neo,7,Pink,508,71
+7,Klemens,Cogley,Spice,Spice M-5200 Boss Don,2,Yellow,468,48
+8,Emelda,Colerick,Samsung,Samsung Galaxy S II TV,8,Goldenrod,528,18
+9,Hope,Hutchinges,Samsung,Samsung I9500 Galaxy S4,1,Goldenrod,358,45
+10,Jake,Filkin,Allview,Allview X2 Soul Pro,6,Pink,337,68
+11,Kassie,Duligall,LG,LG G4 Dual,3,Indigo,822,25
+12,Melli,Carles,Sony,Sony Xperia Tablet S 3G,5,Blue,423,92
+13,Walden,Camin,Google,Google Pixel,6,Red,556,80
+14,Gerty,Sayle,Lenovo,Lenovo A630,2,Goldenrod,328,82
+15,Pauline,Ginglell,Bosch,Bosch Com 738,10,Pink,874,56
+16,Rania,Haith,Coolpad,Coolpad Torino S,2,Green,861,3
+17,Enoch,Shann,Archos,Archos 50 Saphir,3,Violet,802,28
+18,Giana,Bogue,vivo,vivo X20 Plus,9,Blue,952,18
+19,Kinny,Ware,Wiko,Wiko Ufeel go,2,Yellow,607,78
+20,Dacy,Slingsby,Lenovo,Lenovo K5 play,5,Goldenrod,704,58
+21,Cullin,Laflin,alcatel,alcatel OT-800 One Touch CHROME,1,Fuscia,477,28
+22,Rees,Guerrier,Motorola,Motorola RAZR2 V9,2,Orange,703,15
+23,Chere,Jerisch,Infinix,Infinix Smart,3,Purple,563,55
+24,Freedman,Sans,Huawei,Huawei MediaPad 7 Youth2,6,Purple,995,76
+25,Ernaline,Eversley,Micromax,Micromax Q372 Unite 3,10,Yellow,945,36
+26,Bellina,Saxton,Motorola,Motorola d520,8,Blue,738,97
+27,Shannan,Muirhead,Samsung,Samsung A177,8,Yellow,656,16
+28,Evita,Pideon,LG,LG V20,5,Indigo,937,94
+29,Kendra,Whightman,LG,LG KS10,6,Mauv,491,20
+30,Carrol,Yglesia,Motorola,Motorola W395,7,Aquamarine,372,68
+31,Myer,Murdy,Celkon,Celkon A97i,4,Violet,968,96
+32,Walden,Gumn,alcatel,alcatel Pixi 4 (6),2,Turquoise,412,57
+33,Philippa,Elleyne,vivo,vivo Y20s,9,Khaki,521,34
+34,Kakalina,Yockley,Asus,Asus M930,7,Mauv,459,59
+35,Margaretta,Chetwind,Philips,Philips 699 Dual SIM,5,Teal,728,79
+36,Leif,Hentzeler,ZTE,ZTE E N72,2,Puce,581,13
+37,Tova,McNabb,Orange,Orange Neva jet 5G,5,Teal,773,94
+38,Lorain,Bernhart,BLU,BLU Studio J2,1,Fuscia,779,70
+39,Deana,Clandillon,Samsung,Samsung Galaxy S6 edge (USA),10,Yellow,466,59
+40,Faydra,Gallymore,Xiaomi,Xiaomi Redmi 2 Prime,9,Red,379,17
+41,Edin,Stubbins,LG,LG GS290 Cookie Fresh,1,Goldenrod,722,24
+42,Jacky,Ruthen,LG,LG GS200,4,Fuscia,434,48
+43,Babs,Coalbran,Acer,Acer Iconia Tab A3-A20FHD,9,Green,606,16
+44,Luella,Ackeroyd,Oppo,Oppo A1k,4,Mauv,920,51
+45,Lutero,Chieco,Vodafone,Vodafone 228,10,Aquamarine,444,10
+46,Morton,Crippen,Sony,Sony Ericsson Xperia mini,4,Crimson,639,41
+47,Hertha,Simonin,Philips,Philips S308,2,Maroon,511,22
+48,Lonnard,Aris,LG,LG V40 ThinQ,6,Khaki,416,61
+49,Clarinda,Zarfat,LG,LG C3400,10,Pink,726,36
+50,Lorelei,Cocklin,Wiko,Wiko Highway 4G,7,Mauv,404,78
+51,Marga,Gitting,Xiaomi,Xiaomi Redmi Note 7 Pro,6,Pink,437,80
+52,Dulce,Shaw,NEC,NEC N223i,9,Turquoise,758,79
+53,Ranna,Pregel,Samsung,Samsung E310,4,Teal,330,55
+54,Brendis,Inch,Apple,Apple iPhone X,2,Yellow,944,23
+55,Barnie,Ca,BLU,BLU Amour,2,Goldenrod,661,66
+56,Frances,Ridings,Huawei,Huawei G8,7,Khaki,669,67
+57,Reuven,Tunny,Samsung,Samsung Galaxy A6s,2,Puce,543,48
+58,Nolan,Southway,Haier,Haier L8,1,Crimson,591,25
+59,Jessi,Moland,Lenovo,Lenovo IdeaTab S6000,2,Purple,741,38
+60,Katya,Sandall,Xiaomi,Xiaomi Mi Note 2,2,Turquoise,825,1
+61,Agna,Fautly,Samsung,Samsung Galaxy S III T999,3,Aquamarine,487,75
+62,Tarah,Barck,BlackBerry,BlackBerry Leap,3,Blue,876,18
+63,Osborne,Gilley,BlackBerry,BlackBerry Curve 8980,8,Indigo,650,79
+64,Forester,McGlaughn,Panasonic,Panasonic X66,4,Purple,765,83
+65,Suzie,Tatnell,Gionee,Gionee W909,1,Khaki,935,74
+66,Pryce,Balas,Sagem,Sagem my810x,5,Aquamarine,393,41
+67,Evita,Webber,Plum,Plum Optimax 11,8,Khaki,962,11
+68,Franklyn,Caghy,Microsoft,Microsoft Lumia 640 XL LTE Dual SIM,4,Yellow,971,8
+69,Peggi,Liles,Nokia,Nokia N90,4,Aquamarine,713,43
+70,Neall,Seedhouse,Gigabyte,Gigabyte GSmart Guru GX,4,Indigo,649,63
+71,Kenon,Hubbuck,Nokia,Nokia N90,9,Crimson,904,20
+72,Maximilien,Telford,Nokia,Nokia 150,8,Teal,649,15
+73,Clea,Kikke,Samsung,Samsung D800,9,Turquoise,561,96
+74,Lin,Simonato,Philips,Philips Fisio 825,10,Indigo,992,27
+75,Davidde,Robbings,Nokia,Nokia C1-02,3,Pink,958,54
+76,Jeffie,Dewen,ZTE,ZTE Light Tab 2 V9A,7,Yellow,730,68
+77,Ashby,Marskell,Motorola,Motorola Quench XT5 XT502,8,Green,803,28
+78,Rosemonde,Clacey,O2,O2 X2i,4,Khaki,904,9
+79,Curtis,Acreman,Oppo,Oppo F11 Pro,1,Goldenrod,911,18
+80,Horatius,Gatley,XOLO,XOLO A500S Lite,7,Violet,394,46
+81,Simmonds,Morecombe,Nokia,Nokia Lumia 2520,3,Khaki,664,18
+82,Roscoe,Rochewell,Innostream,Innostream INNO P10,10,Blue,870,5
+83,Barde,Baty,LG,LG KG120,3,Maroon,755,67
+84,Packston,Semon,HTC,HTC Tiara,7,Teal,659,69
+85,Murray,Leser,Siemens,Siemens CL50,2,Aquamarine,591,31
+86,Hyman,Coggon,alcatel,alcatel One Touch Idol Ultra,1,Purple,413,37
+87,Ainsley,Bridle,Yezz,Yezz Zenior YZ888,4,Pink,991,54
+88,Calvin,Boomes,Lava,Lava Iris Fuel 60,6,Violet,425,55
+89,Swen,Hammel,Oppo,Oppo A9 (2020),10,Red,785,20
+90,Rozina,Marjoram,Amazon,Amazon Kindle Fire HD,1,Purple,569,100
+91,Bride,Leimster,Yezz,Yezz Andy 3.5EI,10,Indigo,340,72
+92,Zacherie,Schuster,Allview,Allview L4 Class,4,Pink,432,61
+93,Wendell,Scrannage,Allview,Allview Viper L,5,Mauv,307,84
+94,Valenka,Punyer,HTC,HTC One XC,7,Teal,448,28
+95,Maisey,Sterzaker,Huawei,Huawei nova,9,Teal,434,13
+96,Leticia,Lackie,Micromax,Micromax A102 Canvas Doodle 3,9,Crimson,337,12
+97,Giffy,Issard,Motorola,Motorola Defy Mini XT320,2,Aquamarine,980,20
+98,Rhoda,Visco,Huawei,Huawei Ascend Plus,10,Orange,411,14
+99,Bennie,Treweek,Wiko,Wiko Lenny3,8,Crimson,785,15
+100,June,McGraith,Sony,Sony Ericsson W508,7,Green,726,75
+101,Kare,Rule,Nokia,Nokia 5630 XpressMusic,6,Turquoise,540,98
+102,Lorie,Allsobrook,alcatel,alcatel OT 557,1,Goldenrod,904,21
+103,Claire,Matuszynski,Motorola,Motorola V600,8,Pink,433,48
+104,Jo,Cardo,Sagem,Sagem MY V-75,6,Mauv,817,56
+105,Maggee,McDuffie,HTC,HTC Jetstream,9,Puce,637,81
+106,Opalina,Humphrys,Motorola,Motorola Moto G8 Power,7,Violet,449,4
+107,Merline,Pierce,Nokia,Nokia 1110,4,Red,938,48
+108,Missie,Mattei,BLU,BLU Studio 6.0 LTE,2,Teal,416,86
+109,Cecil,Mahy,Tecno,Tecno Camon 12 Air,4,Red,932,32
+110,Kaspar,Semrad,Lenovo,Lenovo K320t,1,Green,651,27
+111,Lari,Merman,verykool,verykool s6005 Cyprus II,2,Maroon,994,12
+112,Lockwood,Charity,Sony,Sony Ericsson W890,8,Mauv,905,47
+113,Waring,Woolvin,Lenovo,Lenovo Tab3 10,7,Orange,486,72
+114,Laughton,Alban,Samsung,Samsung Ch@t 322,3,Teal,706,97
+115,Cornell,Sand,Motorola,Motorola One Vision,9,Maroon,342,20
+116,Seline,Merigeau,Nvidia,Nvidia Shield LTE,5,Aquamarine,704,99
+117,Lesya,Lunnon,T-Mobile,T-Mobile Garminfone,3,Maroon,817,30
+118,Chickie,Vosse,Unnecto,Unnecto Drone X,5,Purple,604,97
+119,Tandy,Finlason,Samsung,Samsung J750,9,Indigo,432,74
+120,Amata,Jewers,Motorola,Motorola DEFY,4,Turquoise,844,17
+121,Flss,Lefort,Archos,Archos Diamond S,1,Purple,572,17
+122,Harald,MacKall,Yezz,Yezz Andy 4.7T,4,Indigo,579,58
+123,Ruthanne,Herreros,Bird,Bird S570,7,Teal,439,62
+124,Karon,Pioch,Huawei,Huawei Ascend G510,9,Fuscia,791,6
+125,Twila,Kopec,LG,LG GU230 Dimsun,10,Blue,747,23
+126,Judd,Archbell,Samsung,Samsung Gear S2 3G,8,Orange,301,73
+127,Fredi,Brierton,Xiaomi,Xiaomi Redmi K30 Pro Zoom,8,Aquamarine,505,25
+128,Norry,Sibbson,ZTE,ZTE Grand S Flex,7,Turquoise,611,79
+129,Lukas,Fidock,Celkon,Celkon C399,5,Aquamarine,498,78
+130,Margeaux,Swyndley,Cat,Cat S60,8,Teal,629,82
+131,Brigitta,Ashurst,Yezz,Yezz Billy 4,1,Purple,868,12
+132,Sunny,Foan,Panasonic,Panasonic GD90,2,Puce,614,52
+133,Rockie,Isitt,Philips,Philips S337,5,Puce,874,19
+134,Catlee,Hartright,QMobile,QMobile Noir i5i,4,Aquamarine,689,97
+135,Rhys,Pozer,BLU,BLU Studio 6.0 LTE,1,Goldenrod,644,6
+136,Sibella,Valiant,Xiaomi,Xiaomi Redmi Watch,3,Orange,756,4
+137,Casie,Corday,LG,LG KF600,6,Crimson,394,69
+138,Caldwell,Sandys,Huawei,Huawei P9 lite mini,10,Mauv,436,72
+139,Ellie,Joscelin,Toshiba,Toshiba Windows Phone IS12T,5,Khaki,302,67
+140,Tamara,Drinkall,XOLO,XOLO Q1000,8,Blue,587,52
+141,Emylee,Scripture,Haier,Haier V190,1,Yellow,631,73
+142,Hale,Woolward,LG,LG K30,8,Teal,939,92
+143,Binnie,Greenard,Samsung,Samsung E1360,2,Indigo,524,89
+144,Anneliese,MacCafferty,Yezz,Yezz Andy C5QL,3,Purple,437,78
+145,Juliet,Seabon,NIU,NIU Z10,7,Khaki,386,7
+146,Ron,MacDunleavy,ZTE,ZTE Vital N9810,9,Violet,612,82
+147,Loleta,Davydoch,Oppo,Oppo A59,1,Blue,315,56
+148,Petronilla,Megroff,Samsung,Samsung Z3,9,Indigo,573,54
+149,Mehetabel,Rosengart,LG,LG G5,6,Turquoise,334,38
+150,Klarrisa,Lathee,i-mobile,i-mobile i858,10,Green,764,28
+151,Phaidra,McGawn,Sharp,Sharp Aquos S2,7,Aquamarine,945,82
+152,Holly-anne,Feares,HP,HP 8,3,Khaki,971,52
+153,Cliff,Gealy,ZTE,ZTE Blade,2,Crimson,455,75
+154,Heddie,La Torre,Oppo,Oppo Find 7,8,Crimson,513,4
+155,Shawn,Sergent,Asus,Asus PadFone,5,Goldenrod,982,64
+156,Kylynn,Flament,Celkon,Celkon C3000,2,Crimson,725,91
+157,Barri,Luton,LG,LG KG245,6,Maroon,776,17
+158,Cathy,Grantham,HTC,HTC Desire 820,7,Teal,389,84
+159,Emilia,Corwood,Oppo,Oppo Find 7a,6,Blue,836,69
+160,Lina,Maddrell,QMobile,QMobile Noir LT680,6,Red,511,45
+161,Hilarius,Goddard,Spice,Spice Mi-436 Stellar Glamour,2,Orange,936,31
+162,Demott,Boswood,alcatel,alcatel Pop 7,7,Goldenrod,533,34
+163,Melly,McConachie,Xiaomi,Xiaomi Mi CC9 Pro,3,Crimson,640,44
+164,Tim,Bosworth,NEC,NEC e121,6,Turquoise,973,37
+165,Grantley,Dabel,Asus,Asus Memo Pad 8 ME581CL,1,Yellow,417,34
+166,Shurwood,Spuffard,Xiaomi,Xiaomi Redmi Note 9 Pro,5,Pink,787,76
+167,Carree,Jervis,Sendo,Sendo J530,6,Turquoise,667,56
+168,Morten,Andryushin,Sewon,Sewon SRD-3000,3,Mauv,443,10
+169,Luci,Hugnet,Sagem,Sagem myW-7,7,Crimson,634,93
+170,Danya,Kingsmill,Wiko,Wiko Rainbow Jam,8,Goldenrod,385,8
+171,Monah,Wardlow,verykool,verykool s4513 Luna II,7,Yellow,348,42
+172,Bank,Conkay,Spice,Spice M-5363 Boss,10,Teal,970,24
+173,Olga,Jaycox,Celkon,Celkon C54,8,Blue,990,75
+174,Blair,Grinikhin,Spice,Spice M-5900 Flo TV Pro,6,Fuscia,726,77
+175,Aurthur,Bennis,Xiaomi,Xiaomi Mi Watch (China),3,Blue,782,60
+176,Marylin,Cornock,Samsung,Samsung Galaxy Tab A 8.0 (2015),5,Indigo,321,89
+177,Ilaire,Beddoe,Plum,Plum Z708,3,Turquoise,903,67
+178,Wolfgang,Langcaster,Gionee,Gionee S11S,5,Fuscia,521,29
+179,Mickie,Mallia,Samsung,Samsung X460,4,Violet,596,74
+180,Mildrid,Rohfsen,Haier,Haier U56,5,Blue,525,59
+181,Montague,Drayson,LG,LG T505,7,Indigo,874,86
+182,Chelsea,Hefforde,Vodafone,Vodafone Smart E9,3,Khaki,830,43
+183,Seana,Limeburn,Samsung,Samsung Serenata,6,Goldenrod,344,68
+184,Gamaliel,Duffrie,Amoi,Amoi A210,9,Pink,560,59
+185,Dyann,Leftley,Nokia,Nokia X6 (2009),9,Khaki,912,73
+186,Vivienne,Roughley,Motorola,Motorola C168,3,Aquamarine,861,95
+187,Sigfried,Wornum,Asus,Asus Transformer Pad TF701T,7,Violet,703,71
+188,Dorella,Hubery,Samsung,Samsung Convoy 2,10,Blue,977,48
+189,Edmon,Romanini,O2,O2 XDA Zest,4,Teal,463,10
+190,Lowrance,Cattenach,Micromax,Micromax Canvas A1,6,Blue,460,75
+191,Coral,Bracer,Celkon,Celkon C619,10,Orange,758,34
+192,Frederic,Bowskill,Panasonic,Panasonic Eluga Arc,3,Turquoise,976,44
+193,Symon,Birch,Dell,Dell Aero,9,Pink,301,25
+194,Haily,Cotherill,Lenovo,Lenovo ThinkPad,8,Yellow,884,32
+195,Ailsun,Aingell,Motorola,Motorola V180,3,Red,981,81
+196,Niels,Jurkiewicz,BLU,BLU Studio One,8,Blue,732,11
+197,Moira,Husbands,Meizu,Meizu M2,2,Mauv,495,79
+198,Malchy,Simonin,O2,O2 XDA Stealth,7,Puce,829,63
+199,Alric,Collocott,BlackBerry,BlackBerry 7130v,7,Crimson,407,66
+200,Constantine,Despenser,Samsung,Samsung Galaxy Tab Active 2,7,Green,838,21
+201,Florina,Von Welden,Huawei,Huawei Y6,7,Goldenrod,533,4
+202,Jacquelin,Bonsall,Sony,Sony Xperia T LTE,10,Orange,327,90
+203,Marrissa,Golds,Celkon,Celkon C3030,10,Turquoise,766,98
+204,Malcolm,Thebe,Motorola,Motorola One Hyper,10,Blue,672,15
+205,Inger,Blankau,Xiaomi,Xiaomi Mi 10T Pro 5G,9,Blue,532,93
+206,Val,Ducker,Archos,Archos 50 Titanium,8,Indigo,800,90
+207,Carlo,Brodeau,Sonim,Sonim XP3300 Force,1,Violet,693,92
+208,Karlene,Knapp,Spice,Spice Mi-502 Smartflo Pace2,2,Yellow,802,8
+209,Pammie,Shillabeer,Oppo,Oppo R815T Clover,1,Orange,774,6
+210,Ottilie,Vossing,BLU,BLU Studio J1,6,Teal,541,13
+211,Benjy,Cord,Meizu,Meizu M3 Max,2,Indigo,918,36
+212,Romeo,Grangier,Vodafone,Vodafone 716,3,Purple,665,93
+213,Yulma,Chelley,i-mobile,i-mobile TV650 Touch,1,Goldenrod,386,83
+214,Sergei,Jiracek,Sagem,Sagem VS4,6,Indigo,920,27
+215,Frasco,Howel,Nokia,Nokia 1202,7,Indigo,478,80
+216,Pasquale,Bathowe,vivo,vivo Y50,5,Teal,491,73
+217,Nealon,Po,alcatel,alcatel One Touch Fire,2,Red,494,73
+218,Kellyann,Brownsett,Samsung,Samsung Galaxy A7 (2016),6,Indigo,636,36
+219,Damian,Rains,Samsung,Samsung I9300 Galaxy S III,3,Purple,336,7
+220,Win,Wardhaw,Samsung,Samsung S8500 Wave,6,Green,976,71
+221,Roderic,Robez,LG,LG F2250,1,Puce,788,57
+222,Kass,Wrey,Xiaomi,Xiaomi Redmi Note 9S,7,Red,417,78
+223,Jasmin,Barnfield,Celkon,Celkon A99,4,Aquamarine,488,48
+224,Harry,Waby,Motorola,Motorola Moto E5,8,Fuscia,499,98
+225,Margarita,McGuirk,Samsung,Samsung Galaxy S II T989,3,Mauv,448,52
+226,Hertha,Kydd,Samsung,Samsung Galaxy Note20 Ultra,10,Mauv,452,92
+227,Madella,Combe,TCL,TCL 10 SE,9,Red,405,60
+228,Roselle,Rushford,Huawei,Huawei Ascend Y520,9,Turquoise,983,92
+229,Adeline,Antowski,vivo,vivo Z3x,10,Green,674,20
+230,Gabey,Blaszkiewicz,Samsung,Samsung Serene,3,Pink,540,5
+231,Zacherie,Beardsworth,vivo,vivo V19,10,Yellow,301,97
+232,Haskel,Ellerey,HP,HP iPAQ h6325,8,Green,685,98
+233,Kristofor,Towsie,Huawei,Huawei nova 7i,9,Indigo,717,79
+234,Kelsey,Rendall,Samsung,Samsung Galaxy J7 Duo,3,Orange,740,35
+235,Fayre,Mesant,Gionee,Gionee L800,2,Orange,858,41
+236,Mauricio,Koppelmann,alcatel,alcatel Idol 4s,10,Goldenrod,835,32
+237,Alexio,Onele,Celkon,Celkon Q452,7,Goldenrod,835,76
+238,Sheba,Scotchmer,LG,LG G7 Fit,10,Mauv,368,79
+239,Loralyn,Westcott,Apple,Apple iPad Pro 10.5 (2017),7,Fuscia,421,53
+240,Hiram,Garstan,Energizer,Energizer Energy E11,4,Orange,499,3
+241,Jacqueline,Medd,Philips,Philips X710,7,Orange,664,93
+242,Phillipp,Jovey,Sony,Sony Ericsson J100,7,Violet,890,18
+243,Stanton,Slaney,QMobile,QMobile Noir S1,6,Khaki,465,57
+244,Vevay,Frost,verykool,verykool s5200 Orion,4,Goldenrod,938,81
+245,Jourdan,Capey,Samsung,Samsung X140,9,Yellow,837,51
+246,Indira,Hogben,Sagem,Sagem MY X-3,10,Maroon,805,51
+247,Jeanie,Pecha,ZTE,ZTE F951,2,Mauv,701,6
+248,Sioux,Nansom,vivo,vivo Xplay6,1,Red,571,86
+249,Lammond,Pinnock,Asus,Asus V80,9,Turquoise,864,45
+250,Vinny,Bernardon,Samsung,Samsung E390,1,Puce,320,23
+251,Vachel,Juggings,Sagem,Sagem my150X,4,Fuscia,575,63
+252,Izak,Motion,BLU,BLU Samba W,10,Purple,471,32
+253,Charleen,Pink,Celkon,Celkon A64,9,Puce,812,70
+254,Willyt,Copner,Micromax,Micromax Q5 fb,6,Green,642,94
+255,Teresa,Officer,Philips,Philips 588,1,Fuscia,634,35
+256,April,Cushe,Lava,Lava A67,10,Violet,843,44
+257,Luciana,Izachik,ZTE,ZTE nubia X6,3,Red,365,27
+258,Dov,Elland,ZTE,ZTE Blade V8 Pro,6,Teal,973,59
+259,Mahmud,McCurtin,i-mobile,i-mobile 5220,9,Fuscia,347,45
+260,Vaughn,Gradley,LG,LG G Pad III 8.0 FHD,2,Purple,330,25
+261,Dolf,Verheijden,Innostream,Innostream INNO 110,10,Puce,389,97
+262,Boony,Antonoczyk,T-Mobile,T-Mobile Vairy Touch II,1,Teal,352,51
+263,Elenore,Fass,Siemens,Siemens S11,3,Violet,938,80
+264,Jolynn,Fellman,alcatel,alcatel Watch,1,Red,944,5
+265,Lars,Twyford,Samsung,Samsung A200K Nori F,2,Pink,312,95
+266,Ardyce,Musson,Microsoft,Microsoft Lumia 640 Dual SIM,3,Violet,541,55
+267,Nissa,Mouan,Micromax,Micromax Canvas Xpress 2 E313,6,Blue,436,31
+268,Sigvard,Pakenham,Siemens,Siemens M75,3,Fuscia,590,57
+269,Row,Gligoraci,Sony,Sony Ericsson T303,2,Maroon,702,51
+270,Lita,Cleyne,Panasonic,Panasonic Eluga i3 Mega,3,Puce,408,88
+271,Magdalen,Belden,LG,LG G5500,5,Violet,319,100
+272,Tani,Scholling,Sony,Sony Xperia M5 Dual,8,Mauv,332,30
+273,Levin,Bridgen,Micromax,Micromax A114 Canvas 2.2,8,Goldenrod,437,12
+274,Druci,Fattorini,BLU,BLU Studio 5.0 C,6,Red,561,72
+275,Nicolai,Twinberrow,Sharp,Sharp SX862,8,Aquamarine,565,53
+276,Katy,Connal,Panasonic,Panasonic X66,6,Aquamarine,526,100
+277,Thomasa,Espinosa,Archos,Archos Oxygen 63,8,Violet,671,53
+278,Thaddus,Cowl,Nokia,Nokia Lumia 505,6,Fuscia,510,4
+279,Carlota,Mousdall,Karbonn,Karbonn K11+,5,Indigo,506,73
+280,Corie,Fordy,Maxwest,Maxwest Gravity 5 LTE,7,Blue,498,12
+281,Giovanna,Jenne,LG,LG KF240,7,Aquamarine,431,82
+282,Darlleen,Ferreri,alcatel,alcatel 1B (2020),7,Crimson,657,87
+283,Patrizia,Varfalameev,Motorola,Motorola A760,3,Yellow,303,7
+284,Fey,Tapenden,Asus,Asus Transformer Pad Infinity 700 LTE,8,Green,388,35
+285,Janka,Richt,Samsung,Samsung Galaxy Tab 4 7.0 3G,1,Green,773,75
+286,Garner,Longmead,Qtek,Qtek 9100,3,Green,524,21
+287,Lynelle,Beaston,Coolpad,Coolpad Mega 5A,10,Teal,506,46
+288,Pavlov,Kell,LG,LG G7 ThinQ,5,Violet,971,43
+289,Betteanne,Side,Lava,Lava Iris 460,7,Pink,345,37
+290,Nikolaos,Petts,Sony,Sony Xperia go,10,Aquamarine,549,31
+291,Eloisa,Budgen,Emporia,Emporia Solid Plus,2,Violet,760,1
+292,Maureene,Flatley,Huawei,Huawei Y6 Prime (2018),6,Violet,510,62
+293,Marijo,McDade,O2,O2 XDA Orion,9,Mauv,962,17
+294,Addia,Shoveller,Samsung,Samsung E3210,5,Crimson,686,15
+295,Erin,Coggings,Siemens,Siemens A55,3,Goldenrod,366,88
+296,Lilas,MacNaughton,Philips,Philips 160,9,Goldenrod,501,63
+297,Spense,Gregh,Huawei,Huawei Mate 30 RS Porsche Design,9,Green,801,8
+298,Silvana,Elloit,Spice,Spice Mi-491 Stellar Virtuoso Pro,7,Aquamarine,750,71
+299,Verene,Atte-Stone,LG,LG F60,8,Goldenrod,516,45
+300,Caron,Cooley,LG,LG G7070,1,Red,613,75
+301,Mitch,Houlridge,i-mobile,i-mobile 902,10,Yellow,630,100
+302,Letizia,Bedbury,ZTE,ZTE V887,10,Crimson,564,5
+303,Alica,Hair,Samsung,Samsung I8530 Galaxy Beam,9,Orange,629,61
+304,Konstantine,Radbond,VK,VK Mobile VK570,3,Crimson,865,32
+305,Fredek,Tring,Siemens,Siemens ME45,10,Aquamarine,310,85
+306,Janaye,Le Cornu,ZTE,ZTE Salute F350,4,Green,300,24
+307,Donetta,Saffle,Nokia,Nokia 6170,1,Goldenrod,610,51
+308,Blinnie,Domb,Wiko,Wiko Tommy,6,Maroon,405,73
+309,Ayn,Waterstone,alcatel,alcatel 1S (2021),8,Yellow,755,66
+310,Shermy,Dmytryk,Toshiba,Toshiba TS705,4,Orange,972,80
+311,Cesya,Izatson,QMobile,QMobile Noir X90,2,Green,943,3
+312,Costanza,Zanneli,Nokia,Nokia E62,5,Violet,846,92
+313,Sheila,Malec,Lenovo,Lenovo Tab 4 8 Plus,8,Aquamarine,478,92
+314,Verge,Shuttlewood,QMobile,QMobile E1,2,Orange,701,68
+315,Stesha,Capron,Xiaomi,Xiaomi Mi Mix 2,7,Red,668,94
+316,Delano,Valenta,Nokia,Nokia 7250i,3,Teal,663,40
+317,Dottie,Gendrich,vivo,vivo X5Pro,4,Yellow,721,15
+318,Margaret,Forsdicke,Samsung,Samsung E1230,7,Orange,892,52
+319,Thorstein,McCarty,Oppo,Oppo K7 5G,10,Puce,893,20
+320,Ermentrude,Nattriss,Nokia,Nokia C1 Plus,4,Aquamarine,780,18
+321,Arley,Collingdon,Oppo,Oppo F11,7,Mauv,352,31
+322,Vanya,Ciani,Vodafone,Vodafone Smart ultra 7,7,Turquoise,595,43
+323,Audra,Balm,Bird,Bird S667,2,Orange,410,25
+324,Petunia,Swindells,Realme,Realme 6i,3,Khaki,387,84
+325,Philippine,Shovelin,Lenovo,Lenovo A3690,1,Red,498,64
+326,Sydelle,Shovlin,alcatel,alcatel Idol 3 (5.5),7,Orange,871,53
+327,Persis,Costar,LG,LG KP108,8,Green,321,1
+328,Catherina,Corhard,LG,LG KG810,5,Green,733,13
+329,Noellyn,Caren,Infinix,Infinix Hot 5,10,Goldenrod,664,93
+330,Wain,Dugan,Huawei,Huawei Ascend Y220,6,Aquamarine,819,17
+331,Arlyn,Manning,vivo,vivo Y91 (Mediatek),4,Aquamarine,505,55
+332,Jacquenetta,Snewin,XOLO,XOLO Era,5,Mauv,685,90
+333,Keven,Deaves,Plum,Plum Axe Plus 2,2,Yellow,418,55
+334,Ronni,Willshear,vivo,vivo Y20 2021,2,Maroon,646,61
+335,Min,Ong,Samsung,Samsung Galaxy Tab A 8.0 (2017),4,Aquamarine,517,32
+336,Edita,Dilston,BenQ,BenQ M775C,4,Pink,455,17
+337,Concordia,Blackborne,Oppo,Oppo Reno3 Pro,9,Pink,310,18
+338,Jillie,Stang-Gjertsen,Micromax,Micromax Canvas Juice 2 AQ5001,10,Aquamarine,831,89
+339,Rhoda,Croisdall,Huawei,Huawei Ascend G600,3,Red,720,65
+340,Emera,Samwyse,Celkon,Celkon C52,4,Crimson,719,31
+341,Delmer,Gerkens,i-mate,i-mate SPL,8,Mauv,522,26
+342,Eziechiele,Fort,Motorola,Motorola WX161,5,Red,729,92
+343,Beverlie,Sedworth,Plum,Plum Dazzle,1,Blue,680,13
+344,Rasla,Perkins,Huawei,Huawei Enjoy 6s,9,Purple,519,84
+345,Ileana,Kitcat,Samsung,Samsung C250,4,Mauv,676,38
+346,Nedi,Bancroft,Razer,Razer Phone 2,3,Blue,345,75
+347,Fields,Lob,Samsung,Samsung Galaxy M30,6,Mauv,617,85
+348,Had,Oakenfield,Samsung,Samsung Galaxy Tab 2 7.0 P3110,4,Red,885,93
+349,Alleen,Ketchell,Gionee,Gionee Ctrl V4,9,Indigo,470,31
+350,Izzy,Kermott,alcatel,alcatel One Touch Snap,7,Violet,725,87
+351,Rowena,Di Lucia,Plum,Plum Check LTE,3,Purple,364,51
+352,Panchito,Franz-Schoninger,LG,LG Esteem MS910,9,Fuscia,362,57
+353,Rubie,Kingerby,Pantech,Pantech GB200,3,Turquoise,803,69
+354,Weylin,July,Nokia,Nokia 6126,5,Aquamarine,880,66
+355,Frasier,Astie,Spice,Spice M-5750,6,Pink,332,18
+356,Karry,Coite,LG,LG Stylo 6,2,Orange,799,46
+357,Garrick,Trebilcock,Motorola,Motorola Moto G6 Play,8,Pink,837,50
+358,Chad,Neil,Samsung,Samsung Galaxy Reverb M950,1,Yellow,611,100
+359,Benton,Southwick,Siemens,Siemens C72,6,Khaki,576,47
+360,Gloriana,Tortis,Samsung,Samsung C510,5,Teal,729,98
+361,Joy,Dumbreck,Micromax,Micromax X260,3,Purple,978,8
+362,Aveline,Garm,Cat,Cat S31,2,Violet,575,50
+363,Kiah,Gerardeaux,Samsung,Samsung M310,7,Puce,557,23
+364,Cody,Francais,LG,LG L45 Dual X132,4,Violet,890,76
+365,Bink,Mar,Motorola,Motorola Moto E4 Plus (USA),8,Yellow,564,85
+366,Caresse,Chastand,BLU,BLU Vivo XL3 Plus,4,Khaki,880,39
+367,Hamid,Reilinger,Sony,Sony Ericsson J200,5,Maroon,787,14
+368,Inga,Barensky,Micromax,Micromax A121 Canvas Elanza 2,8,Pink,647,92
+369,Lay,Probbin,QMobile,QMobile T200 Bolt,6,Teal,322,58
+370,Coop,Richie,Motorola,Motorola V400p,2,Yellow,820,88
+371,Margit,Habden,Allview,Allview Viva H8 LTE,3,Turquoise,624,61
+372,Calvin,Kettlesting,Unnecto,Unnecto Edge,4,Maroon,808,36
+373,Marquita,Grigson,Google,Google Pixel 4 XL,4,Mauv,852,50
+374,Damaris,Letixier,Nokia,Nokia 7360,6,Pink,507,73
+375,Mellie,McKaile,vivo,vivo Watch,8,Green,338,87
+376,Carlynn,Paddemore,Oppo,Oppo N3,2,Indigo,682,76
+377,Judie,Browse,BLU,BLU Vivo X,9,Orange,648,100
+378,Melisse,Stockau,Prestigio,Prestigio MultiPhone 3400 Duo,8,Turquoise,978,95
+379,Bryn,Margarson,alcatel,alcatel OT-I650 SPORT,4,Teal,362,13
+380,Aurelea,Wagen,Nokia,Nokia 5310 (2020),8,Aquamarine,962,29
+381,Lexi,Goadby,Nokia,Nokia 5030 XpressRadio,1,Orange,849,76
+382,Leandra,Jerrans,HTC,HTC Desire 828 dual sim,5,Goldenrod,452,32
+383,Archer,Westmoreland,Samsung,Samsung Galaxy Core Prime,8,Red,456,2
+384,Skippie,Gon,verykool,verykool RS75,1,Mauv,687,13
+385,Lanette,Cabena,Tecno,Tecno Pop 1s,4,Aquamarine,327,56
+386,Ashbey,Inkpin,Wiko,Wiko View3 Pro,4,Crimson,505,14
+387,Mag,Wyles,LG,LG Optimus L3 II Dual E435,4,Pink,316,48
+388,Mag,Ride,Celkon,Celkon A15,10,Purple,461,25
+389,Deeann,Skocroft,Ericsson,Ericsson R320,4,Khaki,479,15
+390,Glory,Donaway,Samsung,Samsung Galaxy A10,5,Puce,337,61
+391,Morgan,McAusland,Micromax,Micromax Canvas Play Q355,8,Purple,658,89
+392,Radcliffe,Pulham,Nokia,Nokia E60,3,Puce,496,62
+393,Phyllys,Solano,Plum,Plum Inspire,5,Teal,871,71
+394,Harold,Eisenberg,T-Mobile,T-Mobile Vivacity,4,Mauv,711,61
+395,Keriann,Nalder,Sony,Sony Ericsson Xperia X10 mini,2,Fuscia,868,70
+396,Royall,Abbess,Unnecto,Unnecto Drone Z,7,Red,863,90
+397,Romeo,Mollon,vivo,vivo V17 (Russia),8,Khaki,499,39
+398,Sandro,Dietsche,vivo,vivo Y31,5,Indigo,769,45
+399,Modesta,Uttermare,Samsung,Samsung E1170,3,Teal,844,28
+400,Barbette,McKeeman,Palm,Palm Pre 2 CDMA,6,Violet,759,49
+401,Nissa,Keelan,Motorola,Motorola MOTO XT882,3,Aquamarine,702,23
+402,Jarad,Byles,Sony,Sony Xperia Z3v,1,Puce,830,98
+403,Bard,Satchel,LG,LG Optimus LTE2,9,Purple,792,86
+404,Jennette,Binnes,HP,HP iPAQ hw6910,7,Pink,431,87
+405,Peyton,Merioth,HTC,HTC HD mini,9,Purple,544,89
+406,Bertram,Mallia,Lenovo,Lenovo ZUK Z1,7,Red,918,40
+407,Vevay,Monk,Cat,Cat S60,6,Violet,392,38
+408,Adah,Deschelle,vivo,vivo X50 5G,10,Khaki,818,47
+409,Rachael,Laba,Huawei,Huawei P9 lite,10,Green,347,63
+410,Laina,Frankish,ZTE,ZTE Blade A7,1,Aquamarine,877,72
+411,Anatole,Huckerby,Telit,Telit t200,10,Orange,777,6
+412,Samaria,Donaho,Philips,Philips W6610,6,Khaki,785,67
+413,Clim,Giffard,Samsung,Samsung X510,2,Red,405,20
+414,Lilyan,Anwell,Samsung,Samsung C5220,5,Crimson,883,25
+415,Chelsie,Wadly,Samsung,Samsung Galaxy Tab A 8.0 (2015),9,Teal,856,75
+416,Lacey,Landsberg,BlackBerry,BlackBerry Storm 9500,7,Pink,533,94
+417,Rikki,Blasdale,Siemens,Siemens CF75,2,Orange,453,49
+418,Alistair,Alejandri,Motorola,Motorola W208,1,Fuscia,892,94
+419,Lianna,Fosdick,Panasonic,Panasonic P51,4,Khaki,874,23
+420,Lucius,Kohter,Allview,Allview Impera i,8,Red,387,45
+421,Bella,Buckoke,Samsung,Samsung Galaxy Tab A 8.4 (2020),5,Violet,699,82
+422,Burl,Davidesco,Lenovo,Lenovo A185,9,Mauv,472,33
+423,Charita,Speares,Sagem,Sagem MY X-8,5,Fuscia,480,10
+424,Marcella,Briston,Yezz,Yezz Classic CC10,6,Goldenrod,872,27
+425,Lorene,Traite,Asus,Asus ZenFone Lite (L1) ZA551KL,2,Pink,619,79
+426,Edyth,Hunnybun,Acer,Acer Iconia B1-721,1,Mauv,698,22
+427,Bridie,Rosenkranc,Panasonic,Panasonic SC3,8,Pink,907,10
+428,Giralda,Gumary,BLU,BLU Touch Book 7.0 Lite,5,Purple,651,49
+429,Dody,Lammerich,Motorola,Motorola Timeport L7089,3,Turquoise,939,38
+430,Paulie,Brotherhed,Panasonic,Panasonic T21,10,Violet,951,97
+431,Lynda,Schultz,Infinix,Infinix Zero 8,3,Orange,736,77
+432,Lurette,Downer,Yezz,Yezz Classic Z51,7,Violet,962,74
+433,Felita,Vannini,LG,LG KG195,4,Mauv,684,63
+434,Kingsley,Raimbauld,LG,LG C3400,4,Goldenrod,818,25
+435,Caty,Weben,Motorola,Motorola V1050,6,Violet,430,86
+436,Inesita,Hadrill,Maxon,Maxon MX-6869,3,Crimson,991,95
+437,Samara,Richardeau,Motorola,Motorola RAZR2 V9,4,Aquamarine,456,7
+438,Joell,Ribey,BlackBerry,BlackBerry Passport,10,Goldenrod,846,93
+439,Jared,McGurk,Samsung,Samsung Galaxy S20 5G,3,Khaki,617,72
+440,Teddy,Duesbury,BLU,BLU Quattro 5.7 HD,9,Mauv,666,10
+441,Ban,Bandiera,alcatel,alcatel Pop 8S,1,Puce,886,16
+442,Bev,Rooke,Huawei,Huawei Mate X2,7,Puce,863,86
+443,Carry,Gerring,HTC,HTC U20 5G,5,Indigo,401,59
+444,Alexa,Simkin,Celkon,Celkon A118,6,Red,544,92
+445,Rex,Ellwood,Motorola,Motorola W160,6,Teal,931,74
+446,Shayne,Euels,Siemens,Siemens U10,8,Orange,555,100
+447,Janek,McNamara,HTC,HTC Touch2,4,Aquamarine,843,57
+448,Brigg,Duesberry,Xiaomi,Xiaomi Redmi Note 7 Pro,5,Indigo,945,20
+449,Darsie,Papps,Asus,Asus Zenfone 5z ZS620KL,6,Purple,348,30
+450,Elladine,Willgoss,NIU,NIU Andy 5T,4,Violet,784,74
+451,Jeniece,Andreichik,Allview,Allview V2 Viper e,5,Indigo,853,73
+452,Windham,Maidstone,Celkon,Celkon C260,10,Mauv,469,57
+453,Federica,Wassung,Prestigio,Prestigio MultiPhone 4055 Duo,6,Blue,554,43
+454,Julie,Glawsop,Spice,Spice S-5420,5,Crimson,583,87
+455,Oswald,Dorcey,alcatel,alcatel OT-S211,7,Goldenrod,333,35
+456,Nevins,Goddman,Allview,Allview P5 Quad,7,Pink,330,82
+457,Dayle,Fenck,Oppo,Oppo RX17 Pro,1,Red,372,20
+458,Gregoire,Braime,Lenovo,Lenovo ZUK Z1,9,Violet,883,19
+459,Bondie,Riccardo,ZTE,ZTE Grand X IN,4,Blue,306,16
+460,Donnie,Abrahmson,Lava,Lava 3G 354,6,Mauv,529,56
+461,Taddeusz,Wildsmith,LG,LG F2410,3,Puce,522,100
+462,Mariellen,Cosgriff,Sagem,Sagem MY V-85,1,Pink,919,30
+463,Ellwood,Scoines,ZTE,ZTE F233,7,Aquamarine,321,2
+464,Sonnie,Joncic,Ulefone,Ulefone Armor 8 5G,2,Yellow,423,84
+465,Sigismund,Luty,Celkon,Celkon Campus Whizz Q42,4,Indigo,619,4
+466,Bianca,Goning,i-mobile,i-mobile TV 630,5,Goldenrod,884,86
+467,Catina,Klausewitz,verykool,verykool i604,5,Aquamarine,638,26
+468,Alessandra,Kaveney,BenQ,BenQ M220,9,Puce,363,77
+469,Devi,Hallaways,Sony,Sony Ericsson BRAVIA S004,10,Violet,784,70
+470,Bearnard,Pepon,Asus,Asus PadFone mini (Intel),8,Pink,659,29
+471,Juan,Flower,alcatel,alcatel Flash Plus 2,6,Aquamarine,956,22
+472,Duky,Breinlein,BLU,BLU Studio 5.0 S,3,Red,672,18
+473,Austen,Kolodziej,BLU,BLU Hero II,2,Purple,525,34
+474,Rana,Woodyatt,BLU,BLU TV2Go,2,Crimson,344,44
+475,Aviva,Pedler,alcatel,alcatel OT-978,4,Khaki,436,10
+476,Madonna,Faircley,Spice,Spice Mi-502 Smartflo Pace2,9,Maroon,331,4
+477,Stan,Writtle,vivo,vivo X7,3,Mauv,753,100
+478,Sybila,Hiley,vivo,vivo X7,2,Goldenrod,427,29
+479,Findlay,Boyen,LG,LG KG288,9,Indigo,432,90
+480,Dari,McQuorkel,Xiaomi,Xiaomi Redmi 3s,2,Green,394,29
+481,Peirce,Whittington,Celkon,Celkon Millennia Everest,4,Yellow,739,87
+482,Harris,Pickhaver,Samsung,Samsung S5330 Wave533,2,Purple,895,40
+483,Evonne,Pedlar,Motorola,Motorola MILESTONE XT720,6,Pink,999,85
+484,Kennett,Geldeford,Siemens,Siemens A60,6,Fuscia,792,97
+485,Chantal,Roofe,Nokia,Nokia C3 (2010),5,Yellow,813,27
+486,Sheila,Pomeroy,Motorola,Motorola W395,3,Crimson,748,27
+487,Sena,Fish,Samsung,Samsung Galaxy Core Advance,10,Khaki,850,63
+488,Raven,Booty,Samsung,Samsung T729 Blast,5,Purple,420,21
+489,Lindsy,O' Concannon,Oppo,Oppo Reno5 Pro 5G,5,Khaki,620,71
+490,Osborn,Mahoney,Lava,Lava Iris X1 mini,2,Purple,952,8
+491,Zara,Maryan,Acer,Acer Iconia Tab 10 A3-A30,1,Yellow,881,24
+492,Cherice,Lintott,Amoi,Amoi H802,9,Maroon,770,52
+493,Josh,Poltone,Sagem,Sagem my401Z,3,Green,612,84
+494,Jedediah,Gooderson,YU,YU Yureka Note,8,Maroon,502,62
+495,Alecia,Simionescu,Sony,Sony Xperia E4,1,Violet,830,3
+496,Win,Bover,Samsung,Samsung Galaxy Xcover FieldPro,7,Yellow,880,52
+497,Dorrie,Coopey,alcatel,alcatel Idol 3 (4.7),3,Khaki,845,6
+498,Floria,Aires,Lenovo,Lenovo Vibe K4 Note,3,Green,936,87
+499,Leupold,Gosnell,Samsung,Samsung E950,4,Teal,514,37
+500,Craig,McCunn,Oppo,Oppo Reno2,10,Teal,834,44
+501,Natividad,Seaborne,Kyocera,Kyocera E4600,10,Red,652,76
+502,Brewer,Kerford,verykool,verykool R623,1,Maroon,430,44
+503,Alicia,Danelut,Sony,Sony CMD Z1,1,Khaki,696,28
+504,Teodoro,Mailey,Plum,Plum Wicked,10,Teal,365,8
+505,Kandy,Lyle,Asus,Asus Zenwatch WI500Q,8,Orange,776,56
+506,Bryon,Hastilow,Samsung,Samsung Ch@t 333,6,Red,789,25
+507,Marcelia,Cockerham,Samsung,Samsung Omnia M S7530,4,Red,924,87
+508,Zitella,Cervantes,Samsung,Samsung E200,8,Maroon,407,69
+509,Fields,Drinkall,Samsung,Samsung E1232B,9,Khaki,445,7
+510,Rebekah,Staining,Spice,Spice Mi-496 Spice Coolpad 2,5,Orange,574,82
+511,Gizela,Leiden,Ulefone,Ulefone Armor X7 Pro,1,Yellow,519,26
+512,Leanora,Rosenkrantz,Emporia,Emporia RL1,2,Red,958,99
+513,Theobald,Stummeyer,alcatel,alcatel OT-C552,4,Turquoise,445,40
+514,Blakeley,Giorgini,Wiko,Wiko Sunny2 Plus,9,Turquoise,883,20
+515,Carissa,Dixcee,Micromax,Micromax A110 Canvas 2,9,Fuscia,424,69
+516,Lucretia,Strotton,Samsung,Samsung E200,8,Fuscia,854,26
+517,Trever,Cowton,ZTE,ZTE Axon 7 Max,4,Yellow,963,78
+518,Nial,Berardt,Toshiba,Toshiba TX80,3,Crimson,323,3
+519,Lockwood,Matveiko,Yezz,Yezz Classic C60,8,Puce,309,82
+520,Sollie,Morena,Allview,Allview A10 Plus,6,Orange,351,51
+521,Meryl,Edel,Oppo,Oppo A1k,10,Teal,344,53
+522,Ansell,Brodnecke,Samsung,Samsung Galaxy S II LTE I9210,1,Red,819,55
+523,Avis,Mylan,Celkon,Celkon C203,1,Mauv,878,63
+524,Gran,Bevans,LG,LG GW550,4,Crimson,497,22
+525,Emanuele,O'Cuddie,Infinix,Infinix Smart 2,6,Violet,632,80
+526,Berenice,Wallsam,Gionee,Gionee S11S,5,Crimson,487,77
+527,Stephine,Currum,alcatel,alcatel OT-605,9,Blue,646,98
+528,Dael,Avramovitz,T-Mobile,T-Mobile MDA Vario IV,3,Pink,787,57
+529,Brit,Donisi,QMobile,QMobile Noir A115 ATV,5,Indigo,422,13
+530,Lyndel,Sweetlove,verykool,verykool i625,9,Goldenrod,781,55
+531,Sergio,Guiel,Sagem,Sagem RC 922,5,Purple,380,37
+532,Artemus,Dommersen,LG,LG A290,1,Purple,349,92
+533,Lauri,Curthoys,LG,LG A180,4,Violet,556,81
+534,Marget,Dutnell,Sharp,Sharp Aquos Xx,8,Aquamarine,918,52
+535,Ag,Banisch,Sagem,Sagem MY V-85,8,Turquoise,935,5
+536,Virgie,McBoyle,Meizu,Meizu Pro 6 Plus,6,Indigo,329,46
+537,Maribeth,Yannoni,Prestigio,Prestigio MultiPhone 5400 Duo,6,Mauv,959,75
+538,Geoff,McLese,LG,LG K8 (2017),6,Fuscia,703,72
+539,Sam,Bravington,i-mobile,i-mobile 627,7,Indigo,657,51
+540,Ignatius,Narramore,Wiko,Wiko Sunny3,3,Orange,950,8
+541,Dena,Kellick,vivo,vivo Y12s,3,Aquamarine,450,86
+542,Elvin,Clutheram,Apple,Apple iPad 9.7 (2018),4,Blue,795,11
+543,Any,Tichner,Bird,Bird S198,9,Fuscia,603,95
+544,Sheeree,Woollard,LG,LG GX F310L,10,Fuscia,536,42
+545,Margarete,Mullard,Samsung,Samsung Galaxy Tab 3 Plus 10.1 P8220,7,Teal,457,34
+546,Brita,Konke,Motorola,Motorola V975,9,Teal,310,44
+547,Dov,Gley,BLU,BLU TV2Go Lite,10,Khaki,765,83
+548,Gabriel,Willavoys,HTC,HTC Explorer,10,Green,554,46
+549,Raff,Amy,BLU,BLU Studio G3,1,Goldenrod,607,13
+550,Madelyn,Blind,Apple,Apple iPad Air (2020),1,Maroon,334,77
+551,Seward,Ivashin,ZTE,ZTE nubia Z9,8,Puce,720,2
+552,Linette,Tullot,Sagem,Sagem my721x,6,Yellow,731,13
+553,Britt,Folomkin,Yezz,Yezz Andy 3.5EH,7,Yellow,916,70
+554,Welsh,Ouldred,Huawei,Huawei Y5 (2019),7,Blue,371,67
+555,Jojo,Anmore,LG,LG U8290,1,Aquamarine,673,62
+556,Lurette,Innwood,Meizu,Meizu Pro 7 Plus,10,Green,499,23
+557,Raeann,Karpol,Siemens,Siemens Xelibri 6,7,Aquamarine,486,59
+558,Buck,Scotland,Lenovo,Lenovo Tab 2 A10-70,7,Turquoise,472,26
+559,Crysta,Savidge,Samsung,Samsung Intercept,6,Orange,965,66
+560,Loralyn,Ugolotti,Nokia,Nokia 2626,10,Pink,406,95
+561,Paola,Sarjeant,Chea,Chea 218,4,Khaki,501,2
+562,Phillipe,Gridon,BLU,BLU Quattro 4.5 HD,8,Maroon,871,33
+563,Mace,Syme,ZTE,ZTE Geek V975,2,Green,613,40
+564,Jeno,Bramo,Vodafone,Vodafone 231,9,Puce,967,99
+565,Ansel,Winfrey,Sagem,Sagem MY X1-2,6,Violet,492,22
+566,Enriqueta,Dransfield,LG,LG G Pro Lite,2,Violet,829,11
+567,Eleni,O'Canavan,Blackview,Blackview A10,5,Green,420,40
+568,Ranique,Buse,XOLO,XOLO Q2000,2,Blue,575,2
+569,Malinda,Brotherick,Samsung,Samsung i220 Code,1,Goldenrod,618,42
+570,Aarika,Klimczak,Allview,Allview P1 AllDro,5,Purple,453,25
+571,Timothea,Alldritt,LG,LG BL40 New Chocolate,5,Green,977,81
+572,Lance,Cowe,Huawei,Huawei Y6s (2019),6,Violet,413,47
+573,Granville,Amoore,HP,HP iPAQ Data Messenger,3,Pink,543,71
+574,Paxton,Lyvon,BLU,BLU Dash L2,3,Puce,688,45
+575,Kakalina,Clohisey,Huawei,Huawei U8350 Boulder,5,Khaki,364,31
+576,Ryun,Walak,Apple,Apple Watch SE,9,Mauv,534,15
+577,Ermentrude,Smithen,Icemobile,Icemobile Twilight,10,Aquamarine,920,71
+578,Baron,Surmeir,Celkon,Celkon C504,4,Red,656,36
+579,Abagael,Giveen,Philips,Philips 392,5,Purple,369,37
+580,Jill,Maling,Bird,Bird D636,5,Orange,469,84
+581,Onida,Wareham,Apple,Apple iPhone 5c,8,Turquoise,393,41
+582,Lotte,Stiggles,Toshiba,Toshiba TS608,5,Teal,699,74
+583,Arleta,Nolton,i-mate,i-mate SP3i,10,Blue,981,64
+584,Marlane,Gribble,Micromax,Micromax Canvas Play Q355,3,Turquoise,367,6
+585,Jobye,Tweedle,Archos,Archos 50 Cobalt,1,Mauv,676,37
+586,Darryl,Eighteen,Wiko,Wiko Sunset2,4,Orange,784,5
+587,Emylee,Maddrell,BLU,BLU G9,6,Green,659,77
+588,Emilia,Nials,XOLO,XOLO Play 8X-1100,9,Mauv,890,58
+589,Zondra,Crinson,Asus,Asus Z801,7,Goldenrod,723,11
+590,Wyatan,Sloan,HTC,HTC Rhyme CDMA,7,Indigo,666,12
+591,Ursala,Candey,Motorola,Motorola XT319,1,Pink,955,80
+592,Ahmed,Bloys,Motorola,Motorola A1200,8,Purple,857,77
+593,Tadeo,Guerreiro,Motorola,Motorola Moto Z3,5,Red,701,25
+594,Reuben,Cumberland,ZTE,ZTE Blade X9,8,Fuscia,989,95
+595,Terrence,Von Brook,Nokia,Nokia 8800 Gold Arte,1,Mauv,597,18
+596,Gianina,Lissandrini,Nokia,Nokia 6110 Navigator,6,Goldenrod,973,72
+597,Babb,Arter,Oppo,Oppo U701 Ulike,2,Aquamarine,579,35
+598,Albrecht,Muff,Oppo,Oppo A9 (2020),1,Crimson,314,75
+599,Dionysus,Crepel,Micromax,Micromax A310 Canvas Nitro,10,Yellow,714,55
+600,Carly,Adamowicz,Asus,Asus Zenpad 8.0 Z380M,3,Teal,450,100
+601,Jdavie,Keele,Samsung,Samsung I8700 Omnia 7,8,Teal,944,68
+602,Saunders,Kleehuhler,Nokia,Nokia E71,6,Crimson,378,93
+603,Margeaux,Mulchrone,Huawei,Huawei P smart Pro 2019,3,Puce,526,61
+604,Park,Pinks,Samsung,Samsung Galaxy Grand Prime Duos TV,4,Orange,692,51
+605,Lida,Bathoe,LG,LG U890,1,Red,952,20
+606,Stephine,Dillimore,Micromax,Micromax Bolt A27,3,Aquamarine,625,22
+607,Enoch,Joynes,Wiko,Wiko WIM,6,Mauv,635,43
+608,Rory,Bremen,Samsung,Samsung Ch@t 322,3,Aquamarine,774,58
+609,Caitlin,Stollmeyer,Huawei,Huawei P8,7,Goldenrod,498,62
+610,Gardner,Darracott,Allview,Allview X4 Soul Infinity Plus,8,Khaki,395,3
+611,Gabby,Cubin,ZTE,ZTE E811,2,Fuscia,577,52
+612,Lars,Chataignier,HTC,HTC Velocity 4G,8,Maroon,725,93
+613,Issiah,Franceschielli,T-Mobile,T-Mobile Comet,4,Purple,705,9
+614,Ole,Longshaw,LG,LG KU800,7,Khaki,622,19
+615,Silvan,Laxton,Prestigio,Prestigio MultiPad 7.0 Prime Duo,3,Orange,520,32
+616,Gareth,Penreth,Prestigio,Prestigio MultiPhone 5500 Duo,2,Violet,399,85
+617,Stavros,Kira,Samsung,Samsung Galaxy Grand 3,5,Blue,890,3
+618,Lexine,Aylott,Realme,Realme Q,4,Orange,866,63
+619,Bea,Vasenkov,alcatel,alcatel OT-602,7,Crimson,435,96
+620,Fidelity,Liebermann,Nokia,Nokia 603,9,Fuscia,606,40
+621,Gerri,Gockelen,Samsung,Samsung C3590,1,Blue,696,5
+622,Erica,Gaishson,Energizer,Energizer Power Max P8100S,7,Purple,895,35
+623,Mallorie,Martindale,Nokia,Nokia Asha 308,1,Fuscia,812,64
+624,Geoffrey,Thraves,Gionee,Gionee P5 Mini,6,Violet,407,92
+625,Ly,Pindar,Spice,Spice Mi-285 Stellar,10,Indigo,356,90
+626,Ericha,Mollen,Plum,Plum Trigger Z104,10,Puce,722,42
+627,Ozzie,Siberry,XOLO,XOLO Q900T,2,Orange,851,53
+628,Cati,Kopje,Siemens,Siemens SL65,2,Fuscia,592,28
+629,Trevor,Lidden,BenQ-Siemens,BenQ-Siemens CL71,9,Khaki,306,3
+630,Karel,Twiggins,OnePlus,OnePlus 6,4,Aquamarine,369,25
+631,Conchita,Scadden,Samsung,Samsung E2550 Monte Slider,4,Maroon,683,67
+632,Jazmin,Cholwell,Philips,Philips Xenium K700,6,Orange,645,36
+633,Perla,Clarson,Gigabyte,Gigabyte GSmart GS202,8,Maroon,965,86
+634,Edna,Das,alcatel,alcatel Pixi 7,6,Fuscia,964,33
+635,Atlanta,O'Clery,Amazon,Amazon Fire HD 8 Plus (2020),10,Green,550,92
+636,Genni,Dudin,i-mobile,i-mobile TV 630,8,Purple,934,86
+637,Ahmad,Monier,Acer,Acer Liquid Z530,6,Fuscia,430,8
+638,Drusilla,Hucke,LG,LG KT610,10,Puce,964,55
+639,Wilt,Stoute,HTC,HTC ThunderBolt 4G,7,Goldenrod,710,23
+640,Gardy,Gorini,Lenovo,Lenovo A7,4,Khaki,380,82
+641,Adrea,Osan,Apple,Apple iPad 4 Wi-Fi + Cellular,7,Orange,650,39
+642,Josey,Ales,ZTE,ZTE Open II,1,Khaki,693,17
+643,Lucinda,Keyworth,LG,LG C2100,6,Violet,728,100
+644,Pippy,Wride,Kyocera,Kyocera TG 200,2,Green,691,60
+645,Heddie,Milberry,Micromax,Micromax X267,10,Pink,927,56
+646,Kriste,Wagenen,BenQ-Siemens,BenQ-Siemens A58,2,Aquamarine,483,56
+647,Abbot,Snewin,Honor,Honor 6A (Pro),6,Orange,430,15
+648,Valentia,de Castelain,vivo,vivo V5 Lite (vivo 1609),10,Mauv,770,54
+649,Kirsti,Novotna,Motorola,Motorola DEXT MB220,7,Blue,608,99
+650,Blanch,Gori,Ulefone,Ulefone S11,5,Yellow,911,40
+651,Casar,Dust,Lenovo,Lenovo S650,5,Pink,915,89
+652,Franz,Stamper,BenQ,BenQ EL71,1,Puce,743,88
+653,Richardo,Shenfisch,LG,LG CU500,3,Aquamarine,549,99
+654,Verine,Cocking,LG,LG C1100,9,Pink,819,5
+655,Skippy,Cutajar,vivo,vivo Y30,6,Goldenrod,932,83
+656,Emmie,Ludye,Asus,Asus Transformer Pad Infinity 700 3G,2,Pink,588,21
+657,Fredelia,Dawnay,Allview,Allview V1 Viper S,8,Orange,703,10
+658,Cam,Cabrales,Posh,Posh Equal Plus X700,10,Blue,668,68
+659,Torrie,Rowatt,Philips,Philips Diga,10,Green,301,69
+660,Mia,Mulrenan,ZTE,ZTE Axon 20 5G Extreme,10,Turquoise,379,85
+661,Regina,Le Friec,Samsung,Samsung I9301I Galaxy S3 Neo,10,Mauv,402,42
+662,Carin,Cochet,Lava,Lava A88,7,Red,506,11
+663,Augy,Spinozzi,Nokia,Nokia E50,2,Yellow,952,14
+664,Sigismond,Signori,Haier,Haier G8,3,Teal,741,47
+665,Hilary,Hardistry,Lava,Lava X17,3,Puce,331,13
+666,Ailee,Wichard,HP,HP TouchPad,6,Puce,927,35
+667,Milzie,Diggins,BlackBerry,BlackBerry 8700c,4,Mauv,549,16
+668,Lilias,Kiezler,Spice,Spice M-5250 Boss Item,6,Green,813,68
+669,Alix,Chaperlin,vivo,vivo Y20s,5,Teal,817,83
+670,Dom,Bright,BlackBerry,BlackBerry Curve 3G 9330,5,Red,670,24
+671,Kermit,Latimer,Yezz,Yezz Monte Carlo 55 LTE VR,6,Yellow,821,23
+672,Galvin,Tomsen,LG,LG Optimus L9 P769,6,Teal,398,68
+673,Grove,Hertwell,BLU,BLU Studio 7.0,6,Mauv,777,59
+674,Kandy,Petracek,Wiko,Wiko Rainbow Jam,5,Green,394,14
+675,Michel,Hyland,Plum,Plum Ram 4,5,Crimson,314,25
+676,Elnar,MacGilmartin,LG,LG Stylo 5,6,Purple,888,87
+677,Johannes,Clive,HTC,HTC Titan,9,Indigo,451,40
+678,Petrina,Smieton,Huawei,Huawei Mate 40,4,Yellow,314,90
+679,Fianna,Bernardoni,Lava,Lava Iris X8,10,Crimson,706,38
+680,Peg,Da Costa,Gigabyte,Gigabyte GSmart G1342 Houston,2,Blue,332,76
+681,Rriocard,Roddam,Motorola,Motorola Moto E7,10,Orange,320,84
+682,Nerta,Bento,LG,LG F2300,9,Teal,788,29
+683,Larissa,Daton,Samsung,Samsung SGH-250,7,Crimson,575,79
+684,June,Rollason,Celkon,Celkon C207,7,Blue,765,95
+685,Vivian,Clatworthy,BlackBerry,BlackBerry Bold 9700,10,Indigo,425,21
+686,Frazier,Waddie,Siemens,Siemens SL55,5,Aquamarine,304,79
+687,Grazia,Slamaker,Realme,Realme X3 SuperZoom,3,Turquoise,549,25
+688,Sondra,Pidcock,Sagem,Sagem myMobileTV 2,2,Maroon,912,47
+689,Bessie,Rosenstock,Huawei,Huawei U8650 Sonic,2,Purple,552,100
+690,Lilli,Koppe,Celkon,Celkon A220,5,Purple,363,70
+691,Jessamyn,Screeton,Xiaomi,Xiaomi Mi 10 Pro 5G,10,Pink,596,10
+692,Edwin,Laminman,Archos,Archos Diamond Alpha,8,Goldenrod,876,43
+693,Dan,Byway,Samsung,Samsung i620,10,Goldenrod,766,23
+694,Haleigh,Wain,Motorola,Motorola E11,2,Yellow,481,50
+695,Erin,Popple,Samsung,Samsung B5310 CorbyPRO,1,Puce,854,14
+696,Mureil,Mongain,HP,HP Veer,10,Blue,482,37
+697,Francoise,Fitzmaurice,HTC,HTC Wildfire E,8,Aquamarine,640,85
+698,Bird,Jozwicki,Unnecto,Unnecto Swift,8,Maroon,836,49
+699,Nola,Sizey,Samsung,Samsung Galaxy A8 Duos,2,Aquamarine,938,92
+700,Shurlock,Woodwind,Oppo,Oppo A31 (2015),6,Violet,989,38
+701,Sharity,Kemwal,Philips,Philips Xenium 9@9v,1,Violet,606,42
+702,Sigfried,Waugh,alcatel,alcatel OT-506,2,Indigo,859,37
+703,Judye,Newcome,Allview,Allview City Life,2,Aquamarine,502,67
+704,Kliment,Verlinde,Nokia,Nokia 215,1,Puce,554,100
+705,Kirstin,Paull,Lenovo,Lenovo Z5s,5,Fuscia,328,15
+706,Julissa,Sandall,Nokia,Nokia C2 Tennen,5,Maroon,964,49
+707,Carina,Kelberer,Micromax,Micromax A114 Canvas 2.2,3,Red,776,12
+708,Melinde,Ralling,Celkon,Celkon Monalisa 5,8,Violet,820,58
+709,Christa,Youel,Dell,Dell Venue,3,Indigo,554,28
+710,Erna,Goodhall,ZTE,ZTE nubia V18,5,Red,620,90
+711,Donal,Smalcombe,alcatel,alcatel Idol Alpha,7,Goldenrod,483,28
+712,Becky,Geraldini,Celkon,Celkon CT 9,10,Orange,857,51
+713,Frazer,Hallum,LG,LG Rumor Reflex  LN272,6,Indigo,605,86
+714,Waylan,Kiraly,Siemens,Siemens SFG75,4,Green,998,32
+715,Lucio,Josebury,Samsung,Samsung R570 Messenger III,1,Yellow,964,18
+716,Inness,Hyndes,vivo,vivo Z1 Lite,1,Orange,919,65
+717,Vick,Batrop,alcatel,alcatel OT-602,3,Red,508,43
+718,Liza,Matresse,Celkon,Celkon C820,1,Puce,581,10
+719,Lorne,Bruck,BQ,BQ Aquaris E5s,2,Orange,442,52
+720,Hanan,Caselli,Samsung,Samsung L810v Steel,6,Aquamarine,996,87
+721,Cathlene,Lamb-shine,ZTE,ZTE Axon 11 4G,3,Mauv,637,87
+722,Samaria,Gaspero,Acer,Acer Liquid Z5,10,Aquamarine,411,97
+723,Gabriellia,O'Mullally,Motorola,Motorola Z6c,2,Maroon,867,75
+724,Chicky,Riddall,Tecno,Tecno Pouvoir 3 Air,4,Puce,334,25
+725,Rufe,Schrinel,Oppo,Oppo N1,10,Purple,700,72
+726,Philippa,Barmadier,NEC,NEC N700,5,Puce,636,7
+727,Guthrey,Boylin,Oppo,Oppo K7x,6,Blue,666,82
+728,Bondon,Vasin,Cat,Cat S31,10,Puce,720,87
+729,Corty,Furzey,LG,LG Marquee LS855,9,Blue,492,50
+730,Doralynn,Tennewell,XOLO,XOLO One HD,3,Pink,734,5
+731,Henrietta,Perell,Celkon,Celkon C51,6,Mauv,823,72
+732,Gifford,Bucher,LG,LG Optimus L5 II Dual E455,2,Teal,432,27
+733,Laney,Maymond,Celkon,Celkon CT 7,1,Goldenrod,980,57
+734,Hermie,Sansbury,Meizu,Meizu M3 Note,7,Maroon,353,17
+735,Tuck,MacManus,Samsung,Samsung Galaxy Core Plus,3,Yellow,481,90
+736,Ursuline,Bengtsen,alcatel,alcatel HC 800,2,Red,854,49
+737,Toni,Robertz,Xiaomi,Xiaomi Mi 9T Pro,3,Yellow,812,56
+738,Charita,Coldicott,Siemens,Siemens S25,1,Indigo,757,41
+739,Fredia,Toth,O2,O2 XDA IIi,4,Indigo,769,56
+740,Phil,Prall,ZTE,ZTE Rio,10,Red,405,65
+741,Mandy,Bonnell,VK,VK Mobile VK700,7,Blue,387,61
+742,Wilona,Pidwell,Nokia,Nokia 8910,9,Indigo,482,47
+743,Duke,Stickels,Motorola,Motorola StarTAC 130,8,Khaki,423,38
+744,Kayla,Tansley,Siemens,Siemens Xelibri 8,9,Pink,512,37
+745,Wilmar,Pitrelli,vivo,vivo iQOO 7,9,Teal,588,19
+746,Sergeant,Duthy,Meizu,Meizu MX4 Pro,7,Khaki,600,58
+747,Jamey,Jacquemy,vivo,vivo S1 Pro,8,Turquoise,389,85
+748,Kristien,Selwood,Sony,Sony Xperia 10 Plus,9,Violet,861,6
+749,Isidro,Haughian,XOLO,XOLO Black,3,Puce,518,94
+750,Doretta,Davidi,BLU,BLU J4,8,Turquoise,400,48
+751,Fax,Hellmore,LG,LG Q60,6,Red,969,90
+752,Meridith,Jamieson,BlackBerry,BlackBerry Style 9670,1,Mauv,838,80
+753,Randie,Daingerfield,Samsung,Samsung Galaxy A30,9,Khaki,632,9
+754,Dicky,Denisyuk,Nokia,Nokia 6086,1,Indigo,980,45
+755,Debora,Delia,BenQ-Siemens,BenQ-Siemens C32,1,Turquoise,926,2
+756,Nolana,Collibear,Samsung,Samsung i320,4,Yellow,806,7
+757,Flynn,Swinglehurst,Eten,Eten glofiish X600,7,Yellow,352,10
+758,Melisa,Stallebrass,Maxwest,Maxwest Android 330,4,Green,608,40
+759,Vincent,Margiotta,Panasonic,Panasonic Eluga L 4G,2,Khaki,332,69
+760,Kev,Plesing,Lenovo,Lenovo A889,9,Yellow,598,28
+761,Giavani,Kensall,XCute,XCute DV1,9,Indigo,870,92
+762,Lynnett,Mullany,Posh,Posh Lynx A100,3,Green,790,48
+763,Nichole,Lourens,BenQ,BenQ M100,1,Turquoise,855,57
+764,Lyn,Fullicks,i-mate,i-mate JAM Black,6,Aquamarine,973,13
+765,Aldo,Balffye,Samsung,Samsung S7220 Ultra b,3,Red,904,62
+766,Clerissa,Barnbrook,Samsung,Samsung D980,1,Puce,431,51
+767,Rosina,Flitcroft,ZTE,ZTE Blade L110 (A110),5,Indigo,779,58
+768,Dehlia,Lemery,Acer,Acer Allegro,3,Aquamarine,662,10
+769,Seymour,Quainton,Samsung,Samsung Galaxy A8+ (2018),8,Orange,956,48
+770,Hussein,Greenroad,Motorola,Motorola Moto G8,7,Fuscia,911,83
+771,Reamonn,Carik,Eten,Eten glofiish X800,4,Goldenrod,981,72
+772,Binnie,Boanas,Apple,Apple Watch Series 2 38mm,1,Blue,407,28
+773,Gabriellia,Arundel,Coolpad,Coolpad Mega 3,5,Violet,976,100
+774,Corissa,Matthews,Lava,Lava Pixel V1,9,Purple,554,7
+775,Meridith,Maffei,LG,LG F2100,9,Pink,379,72
+776,Rhianon,Shropsheir,Xiaomi,Xiaomi Mi Note 10,3,Fuscia,682,93
+777,Konstantin,Oakden,Asus,Asus Transformer Prime TF201,10,Turquoise,839,71
+778,Natale,Mirralls,Haier,Haier F1100,5,Yellow,436,87
+779,Ikey,Schwandner,Motorola,Motorola Moto G Play (2021),3,Aquamarine,803,93
+780,Oriana,Olivelli,verykool,verykool CD611,1,Goldenrod,722,60
+781,Catherina,Wabb,Vodafone,Vodafone 547,6,Red,515,50
+782,Anthe,Oldcote,Motorola,Motorola L800t,9,Teal,570,72
+783,Cris,Larkkem,HTC,HTC U Play,10,Teal,344,12
+784,Catrina,Copperwaite,Samsung,Samsung Galaxy Tab A 9.7 & S Pen,10,Orange,595,72
+785,Damian,Plewes,BLU,BLU S1,5,Red,819,49
+786,Jeniece,MacQuist,Motorola,Motorola Q 9h,4,Indigo,444,98
+787,Arabela,Cholomin,Gigabyte,Gigabyte GSmart t600,8,Crimson,876,44
+788,Logan,Sapwell,Tecno,Tecno Spark CM,7,Khaki,800,12
+789,Sophia,Blaszczyk,Lava,Lava Iris 406Q,2,Puce,580,28
+790,Richie,Bernardoux,Nokia,Nokia N81 8GB,9,Crimson,473,79
+791,Sisile,Knappett,Nokia,Nokia 8910,7,Violet,429,50
+792,Lowrance,Godfrey,verykool,verykool s5017Q Dorado,4,Aquamarine,548,27
+793,Elwin,Shinton,Gionee,Gionee Ctrl V2,5,Maroon,649,20
+794,Suzanne,Venus,Casio,Casio G'zOne Commando,1,Purple,502,93
+795,Vanni,Petrelli,Pantech,Pantech Breakout,3,Indigo,833,53
+796,Gisele,Gaddas,BLU,BLU Deco Pro,5,Indigo,697,25
+797,Lissi,Pluck,Bird,Bird S590,8,Yellow,657,69
+798,Randa,Feehan,ZTE,ZTE A261,7,Blue,855,17
+799,Dominique,Twine,Sony,Sony Ericsson Z558,7,Maroon,971,71
+800,Rhianna,Johanchon,Plum,Plum Dazzle,6,Indigo,359,32
+801,Viola,Weathey,Micromax,Micromax A47 Bolt,9,Goldenrod,751,47
+802,Else,Halling,alcatel,alcatel 3X (2020),7,Mauv,555,80
+803,Phillipe,Zoanetti,ZTE,ZTE Flash,7,Puce,842,61
+804,Karena,Letham,Nokia,Nokia 703,1,Orange,495,86
+805,Madelina,Keefe,Celkon,Celkon A125,2,Puce,340,11
+806,Wash,Cacacie,Samsung,Samsung E1282T,10,Yellow,979,66
+807,Dill,Athowe,Unnecto,Unnecto Bolt,2,Goldenrod,862,1
+808,Michelina,Trewin,Samsung,Samsung Guru Dual 26,4,Violet,438,26
+809,Llywellyn,Jakubowicz,Xiaomi,Xiaomi Redmi Note 9 Pro 5G,2,Purple,855,83
+810,Peadar,Rough,NEC,NEC e606,7,Turquoise,844,70
+811,Darcie,Cassius,Lenovo,Lenovo A7000,2,Blue,665,54
+812,Johannah,Woodings,Asus,Asus PadFone mini 4G (Intel),7,Green,950,80
+813,Francine,Scotchmer,Qtek,Qtek 8310,1,Yellow,452,54
+814,Dolli,Mandrake,LG,LG G3,6,Teal,636,73
+815,Miof mela,Toffetto,Nokia,Nokia 8000 4G,5,Indigo,564,46
+816,Petronia,Glowacha,BLU,BLU Studio J8,5,Orange,804,46
+817,Brod,Attenburrow,Asus,Asus Live G500TG,7,Green,715,76
+818,Nicolais,Offiler,HTC,HTC Butterfly S,3,Fuscia,914,59
+819,Annamaria,Balsom,Bird,Bird S288 Plus,7,Maroon,676,29
+820,Neda,Gumb,Sony,Sony Ericsson WT18i,8,Crimson,685,6
+821,Wandie,Bigham,Samsung,Samsung Galaxy Tab A 8.0 & S Pen (2019),8,Puce,911,22
+822,Lucias,Marsden,LG,LG KP235,1,Mauv,759,61
+823,Valera,Aylesbury,QMobile,QMobile Noir LT150,5,Teal,376,20
+824,Percival,Hurt,Samsung,Samsung Galaxy Tab A 10.1 (2019),1,Khaki,660,7
+825,Reinold,Euels,Nokia,Nokia X,9,Green,410,67
+826,Zared,McKim,Vodafone,Vodafone Smart Tab 10,7,Blue,533,26
+827,Ertha,Zold,Plum,Plum Flipper,4,Purple,332,43
+828,Susana,Wahner,HP,HP Slate8 Pro,5,Puce,319,46
+829,Buddie,Lancashire,Nokia,Nokia Asha 201,1,Pink,688,5
+830,Neda,Spears,Sony,Sony Xperia E3,9,Fuscia,572,57
+831,Cinnamon,O'Hagan,Celkon,Celkon C44 Duos,6,Khaki,862,79
+832,Abagail,Dunthorn,Orange,Orange Monte Carlo,7,Khaki,621,26
+833,Hobard,Reeme,Maxon,Maxon MX-C80,3,Teal,486,12
+834,Roseanne,Chown,Philips,Philips X2560,3,Puce,813,13
+835,Rasia,Reyburn,HTC,HTC Trophy,3,Yellow,541,41
+836,Corbett,Wheaton,Nokia,Nokia C6,10,Turquoise,494,8
+837,Dianemarie,Siggee,Acer,Acer Liquid X1,6,Violet,386,72
+838,Erminia,Lafontaine,Nokia,Nokia 5210,6,Fuscia,503,60
+839,Raddy,Stean,Samsung,Samsung Galaxy Tab 10.1 P7510,9,Yellow,619,96
+840,Sheff,Sandlin,Yezz,Yezz Ritmo 3 TV YZ433,7,Red,757,11
+841,Sophia,Seint,Micromax,Micromax Dual 5,3,Purple,496,42
+842,Lissy,Gorini,Maxwest,Maxwest Orbit X50,3,Turquoise,454,71
+843,Malchy,Goomes,QMobile,QMobile Noir E2,1,Purple,307,29
+844,Deane,Creek,Plum,Plum Link Plus,4,Blue,769,8
+845,Garald,Winspear,XCute,XCute DV2,9,Pink,890,80
+846,Valenka,Goldthorpe,Samsung,Samsung S9110,9,Puce,880,3
+847,Jennica,Beldan,Samsung,Samsung Galaxy 551,2,Puce,388,23
+848,Sergio,Chalcroft,Emporia,Emporia Elegance,3,Violet,681,34
+849,Klaus,Knipe,ZTE,ZTE Blade A910,10,Violet,770,67
+850,Mohandis,Popland,Lenovo,Lenovo A789,7,Maroon,619,59
+851,Padgett,Speedy,Samsung,Samsung Ch@t 335,5,Blue,510,56
+852,Gertrud,Glabach,Spice,Spice QT-95,4,Maroon,529,72
+853,Christophe,Choudhury,Bird,Bird S296,9,Turquoise,624,61
+854,Donni,Povele,Qtek,Qtek 8080,8,Yellow,421,4
+855,Eb,Rugg,vivo,vivo Z1,5,Teal,811,52
+856,Ardyth,O'Docherty,alcatel,alcatel OT-I650 SPORT,5,Purple,554,15
+857,Jemmie,Cousans,Siemens,Siemens S45,6,Orange,509,22
+858,Stafani,Dessant,Samsung,Samsung Metro E2202,6,Pink,665,40
+859,Caralie,Jales,Motorola,Motorola M3688,1,Mauv,986,77
+860,Berni,Menichelli,Lenovo,Lenovo Tab 7 Essential,3,Green,518,96
+861,Leroy,Papez,Xiaomi,Xiaomi Mi 10 Ultra,8,Indigo,988,1
+862,Jamey,Moore,Bird,Bird M07,8,Pink,363,71
+863,Bella,Otteridge,Lenovo,Lenovo K6 Enjoy,4,Crimson,786,23
+864,Sauncho,Pizey,Sony,Sony Ericsson Z550,2,Aquamarine,991,80
+865,Bryn,Petlyura,Oppo,Oppo K7 5G,5,Khaki,647,9
+866,Cami,Seely,Maxwest,Maxwest Vice,2,Puce,903,89
+867,Gaylor,Gillum,Samsung,Samsung S5350 Shark,10,Fuscia,443,77
+868,Breena,Croxley,Samsung,Samsung W259 Duos,1,Pink,740,3
+869,Jami,Hansman,Haier,Haier T3000,3,Fuscia,402,17
+870,Bryn,Schoolcroft,Maxwest,Maxwest Astro X4,4,Fuscia,488,8
+871,Adham,Sowrah,Sagem,Sagem MC 940,1,Crimson,563,14
+872,Tamera,Dearnley,Samsung,Samsung SGH-800,8,Purple,903,83
+873,Clarette,Hinrichsen,Lenovo,Lenovo Tab M10 HD Gen 2,6,Maroon,793,78
+874,Robinett,Morshead,Samsung,Samsung Ativ Odyssey I930,7,Goldenrod,890,65
+875,Barry,Fellini,alcatel,alcatel OT-C750,8,Indigo,561,6
+876,Raquela,Norway,Huawei,Huawei MatePad Pro 10.8 (2019),9,Yellow,338,93
+877,Harrietta,Sealand,Sharp,Sharp 923SH,1,Red,756,13
+878,Abba,Clail,Allview,Allview X3 Soul Style,8,Maroon,896,65
+879,Jeremiah,Huskinson,Posh,Posh Kick X511,7,Puce,734,67
+880,Tiler,Cordelle,Infinix,Infinix Zero 8i,4,Aquamarine,791,62
+881,Hubie,Plaid,BLU,BLU R2 LTE,2,Puce,494,38
+882,Waiter,Bolstridge,Nokia,Nokia 2300,8,Orange,804,83
+883,Catherin,Judkin,HTC,HTC P3350,3,Khaki,386,47
+884,Montgomery,Yurevich,Tecno,Tecno Camon 16,8,Puce,628,41
+885,Cass,Labat,ZTE,ZTE Axon 11 5G,5,Mauv,386,55
+886,Millard,Tulley,ZTE,ZTE Geek V975,5,Blue,580,34
+887,Osborne,Dunsford,Lenovo,Lenovo ZUK Z1,3,Blue,989,55
+888,Hewe,Fresson,Apple,Apple Watch Series 2 38mm,6,Green,626,42
+889,Ami,Gartland,vivo,vivo X6Plus,8,Purple,342,86
+890,Deerdre,Langtry,Philips,Philips Genie Sport,3,Crimson,452,35
+891,Gothart,Joriot,Celkon,Celkon C449,5,Yellow,479,58
+892,Lavina,Bader,LG,LG V10,2,Goldenrod,770,27
+893,Todd,Abramow,vivo,"vivo Y51 (2020, September)",2,Crimson,586,30
+894,Arturo,Whitlaw,Prestigio,Prestigio MultiPad 2 Ultra Duo 8.0 3G,5,Indigo,466,78
+895,Celine,Davenell,Philips,Philips 580,8,Aquamarine,945,99
+896,Rogerio,Sockell,Innostream,Innostream INNO 90,8,Aquamarine,686,77
+897,Baily,Claussen,Samsung,Samsung Galaxy Tab 3 Lite 7.0 VE,10,Turquoise,946,4
+898,Greg,Edards,Samsung,Samsung X610,6,Red,385,67
+899,Phil,Zanetello,Sagem,Sagem my901C,8,Goldenrod,658,42
+900,Artur,Powderham,Karbonn,Karbonn A30,4,Mauv,832,73
+901,Lin,Fillimore,HTC,HTC U Ultra,10,Maroon,625,98
+902,Samuel,Avrashin,Energizer,Energizer Hardcase H240S,4,Red,537,71
+903,Raine,Lowry,alcatel,alcatel Idol 3C,1,Crimson,766,26
+904,Emlynn,Dorkins,Philips,Philips X1510,5,Teal,386,100
+905,Olympe,Foale,Eten,Eten glofiish M700,1,Crimson,606,2
+906,Jimmie,Muncer,Innostream,Innostream INNO 30,10,Red,465,15
+907,Bobbi,Gedling,Lava,Lava Z6,9,Orange,857,46
+908,Annelise,Garlic,LG,LG KG120,10,Puce,606,93
+909,Sherill,Abrahamowitcz,Huawei,Huawei Ascend P7,6,Goldenrod,637,74
+910,Swen,Acreman,BLU,BLU Quattro 4.5,4,Turquoise,927,99
+911,Tiena,Oganesian,LG,LG CF360,7,Mauv,592,3
+912,Anselma,Cavolini,Sony,Sony Xperia E3 Dual,7,Green,951,31
+913,Colan,Meriguet,i-mobile,i-mobile 625,7,Goldenrod,906,100
+914,Brooks,Chippindale,Allview,Allview A4 Duo,5,Indigo,944,95
+915,Isaak,Balassi,Samsung,Samsung Galaxy Tab 8.9 LTE I957,2,Pink,519,71
+916,Berthe,Frisel,Qtek,Qtek A9100,10,Crimson,629,28
+917,Ingunna,Milella,Huawei,Huawei U9130 Compass,1,Indigo,502,17
+918,Fifine,Rustadge,Toshiba,Toshiba Excite Write,6,Pink,391,19
+919,Allx,Scramage,XOLO,XOLO Q700s,5,Puce,813,27
+920,Bettine,Boise,LG,LG L40 Dual D170,4,Fuscia,898,75
+921,Marielle,Alkin,Motorola,Motorola Moto Z3,3,Purple,506,82
+922,Felike,Vater,Xiaomi,Xiaomi Mi 9 SE,10,Turquoise,760,38
+923,Roderic,Gopsall,OnePlus,OnePlus 7T,9,Mauv,802,83
+924,Gertruda,Rumbold,Prestigio,Prestigio MultiPhone 5504 Duo,6,Goldenrod,466,96
+925,Joan,Trent,Motorola,Motorola V300,6,Orange,396,24
+926,Norbie,Odda,Nokia,Nokia 5233,10,Pink,460,57
+927,Sylvan,Worsam,Nokia,Nokia 6,3,Orange,755,34
+928,Margaretta,Josselsohn,Apple,Apple iPad Wi-Fi,7,Purple,367,63
+929,Asa,Kibbe,Realme,Realme X,4,Red,395,60
+930,Camey,Ipsly,ZTE,ZTE nubia Z17,6,Khaki,677,72
+931,Carilyn,Hoonahan,Samsung,Samsung Galaxy I8250,7,Indigo,707,30
+932,Eveleen,Marvelley,BLU,BLU Dash XL,7,Khaki,481,12
+933,Demetria,Bugs,Xiaomi,Xiaomi Mi Note 10,2,Turquoise,346,20
+934,Lindsey,Dyball,verykool,verykool SL5011 Spark LTE,5,Maroon,642,46
+935,Kahaleel,Cockling,Realme,Realme C12,9,Orange,361,82
+936,Evelina,Duckitt,Nokia,Nokia N80,8,Pink,432,49
+937,Andrej,Jorn,HTC,HTC Primo,10,Mauv,831,22
+938,Garnette,Breckin,Icemobile,Icemobile Charm,4,Mauv,957,97
+939,Paulita,Hathorn,HTC,HTC Desire 12+,3,Green,943,4
+940,Kalli,Please,Honor,Honor Note 8,5,Yellow,481,98
+941,Wilmer,Trinder,HTC,HTC One E9+,1,Crimson,544,37
+942,Almire,Everley,Asus,Asus Zenfone 2 ZE500CL,7,Yellow,758,17
+943,Anallise,Eversfield,ZTE,ZTE nubia Red Magic 5S,4,Aquamarine,479,50
+944,Dita,Mosten,XOLO,XOLO One,10,Khaki,560,46
+945,Maxi,Gerrietz,BlackBerry,BlackBerry Q10,5,Turquoise,356,88
+946,Shari,Gilbank,Huawei,Huawei Ascend Y201 Pro,9,Khaki,986,32
+947,Kenyon,Abramowitz,Sony,Sony Xperia Tablet S 3G,4,Orange,314,46
+948,Daryn,O'Cuddie,Samsung,Samsung J600,8,Mauv,460,36
+949,Ray,Dumpleton,Lenovo,Lenovo A830,4,Violet,324,54
+950,Corbet,Volke,Samsung,Samsung T509,7,Aquamarine,321,1
+951,Mohammed,Whetland,alcatel,alcatel HC 800,8,Yellow,579,59
+952,Marchelle,Nanson,Motorola,Motorola V291,4,Fuscia,482,55
+953,Carrie,Weinberg,Asus,Asus Memo Pad 7 ME572C,10,Blue,869,15
+954,Joellen,Nurse,Energizer,Energizer Ultimate U620S Pop,4,Fuscia,431,80
+955,Sharron,Hardey,Vodafone,Vodafone Smart Tab 4G,6,Green,513,4
+956,Agathe,Mathivet,Honor,Honor 9X (China),5,Blue,426,51
+957,Bernetta,Walter,Samsung,Samsung P260,2,Aquamarine,848,22
+958,Clara,Ridhole,Micromax,Micromax Canvas Fire 5 Q386,1,Khaki,604,34
+959,Hymie,Bramble,Xiaomi,Xiaomi Mi Note Pro,5,Indigo,656,36
+960,Dallas,Spritt,Nokia,Nokia C2-01,9,Yellow,754,73
+961,Pavla,Chartman,T-Mobile,T-Mobile Vairy Text II,5,Khaki,778,50
+962,Gayla,Horbath,Asus,Asus Google Nexus 7 Cellular,6,Turquoise,551,10
+963,Rorke,Kerswell,Samsung,Samsung Galaxy Tab 8.9 LTE I957,8,Turquoise,736,44
+964,Kaitlin,Waugh,Lenovo,Lenovo A60,7,Indigo,508,26
+965,Zacherie,Watkiss,Celkon,Celkon C555,9,Khaki,824,22
+966,Olvan,Rose,Celkon,Celkon C2000,7,Violet,901,24
+967,Kit,Drought,Xiaomi,Xiaomi Poco X2,1,Aquamarine,937,34
+968,Evangelin,Jiru,HTC,HTC Salsa,7,Pink,860,67
+969,Christian,Curston,vivo,vivo Y11s,8,Goldenrod,796,53
+970,Ivie,Chadburn,Samsung,Samsung P500,8,Aquamarine,851,26
+971,Shalom,MacNalley,Sagem,Sagem MY X-6,1,Orange,459,75
+972,Jimmie,Orriss,ZTE,ZTE E N72,7,Mauv,391,78
+973,Lorilee,Brakewell,LG,LG Watch Sport,10,Blue,438,35
+974,Jerald,Harrinson,Mitac,Mitac MIO A702,3,Green,860,19
+975,Delmor,Rawet,ZTE,ZTE Grand Memo V9815,9,Violet,488,18
+976,Peta,Yakovitch,Plum,Plum Optimax 10,8,Red,811,46
+977,Devin,Jiroudek,Samsung,Samsung X610,10,Maroon,530,91
+978,Gui,Beddard,verykool,verykool s5518 Maverick,8,Mauv,383,100
+979,Anna-maria,Glusby,Motorola,Motorola DROID BIONIC XT865,4,Maroon,721,73
+980,Zebedee,Buesnel,i-mate,i-mate PDA2,2,Goldenrod,884,2
+981,Talyah,Gemeau,Panasonic,Panasonic SC3,5,Turquoise,547,58
+982,Erna,Onele,Oppo,Oppo Neo 5s,8,Goldenrod,482,56
+983,Cal,Dorkins,Motorola,Motorola Rambler,5,Green,710,56
+984,Kaiser,Neil,vivo,vivo X9 Plus,1,Blue,491,43
+985,Chalmers,Coke,Celkon,Celkon C102,6,Turquoise,315,9
+986,Kent,Cobbled,Philips,Philips S880,8,Aquamarine,564,68
+987,Gabe,Gunthorp,Sagem,Sagem MY C4-2,5,Blue,805,47
+988,Ogdan,Chesney,Micromax,Micromax Bharat 2 Q402,5,Red,724,33
+989,Travers,Bettles,Siemens,Siemens A35,8,Turquoise,516,28
+990,Toby,Sibly,Sagem,Sagem my900C,8,Pink,681,56
+991,Loren,Vogt,alcatel,alcatel Smart Tab 7,7,Pink,391,22
+992,Jerrine,Blench,Pantech,Pantech GB200,2,Green,935,4
+993,Kirbie,Cleave,Samsung,Samsung Galaxy C7 (2017),8,Teal,408,33
+994,Julia,Antonias,LG,LG G7050,7,Goldenrod,650,8
+995,Milzie,Scarr,Yezz,Yezz Andy 3.5EI3,1,Indigo,626,8
+996,Guillemette,Sconce,Samsung,Samsung U380 Brightside,3,Orange,443,88
+997,Thurston,Albert,alcatel,alcatel OT 311,3,Puce,868,37
+998,Clarissa,Dando,alcatel,alcatel OT-606 One Touch CHAT,2,Violet,852,92
+999,Gage,Gorry,Amazon,Amazon Fire HDX 8.9 (2014),4,Purple,392,74
+1000,Ki,Lyles,LG,LG U300,1,Khaki,984,49
